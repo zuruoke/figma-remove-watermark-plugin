@@ -1,0 +1,16 @@
+{
+  "name": "watermarkremoval",
+  "id": "1054516463780163699",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "menu": [
+    {"name": "Remove Istock Watermark", "command": "Istock"},
+    {"separator": true},
+    {"name": "Remove Shutterstock Watermark", "command": "shutterstock"},
+    {"separator": true},
+    {"name": "Remove Alarmy Watermark", "command": "Alarmy"}
+  ]
+}
